@@ -1,4 +1,4 @@
-![Vintage Gradient Aesthetic LinkedIn Banner](https://user-images.githubusercontent.com/108857263/202610676-2f84572d-cee1-4549-82b4-3435e749dbea.png)
+
 
 - 👋 Hi, I’m Elsy Zambrano
 - 👀 I’m interested in ...
