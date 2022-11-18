@@ -1,3 +1,5 @@
+![Vintage Gradient Aesthetic LinkedIn Banner](https://user-images.githubusercontent.com/108857263/202610676-2f84572d-cee1-4549-82b4-3435e749dbea.png)
+
 - 👋 Hi, I’m Elsy Zambrano
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -8,4 +10,4 @@
 ElsyCaro/ElsyCaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Vintage Gradient Aesthetic LinkedIn Banner](https://user-images.githubusercontent.com/108857263/202610552-cb401338-f64a-48ed-a700-01e80d48d1d1.png)
+
