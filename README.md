@@ -2,9 +2,8 @@
 
 ![Vintage Gradient Aesthetic LinkedIn Banner](https://user-images.githubusercontent.com/108857263/203846081-8fc0b824-8ac9-4cf7-bfff-3d7175173140.png)
 
-🔭 Actualmente estoy trabajando en LabNotes
-
-👩🏻‍💻 Actualmente estoy aprendiendo React
+🔭 I’m currently working on a project called LabNotes
+👩🏻‍💻 I’m currently learning REACT
 
 
 <!---
@@ -14,11 +13,3 @@ You can click the Preview link to take a look at your changes.
 
          
 
-          My 2021 GitHub Skyline          
-
-         ✦                 ✦    ▁          ☽     ✦   
- ✦                 █          ▁▄██      ✧     ✧      
- ✧                ✦█  ▁ ▇     ████    ✦ ✧            
-  ✧   ✧   ✦  ▃     █✦ █✧█▂   ▇████ ▇▅   ▃ ✧✧     ▅   
- ▃▁ ✧▂▅▂▅▂▃▅▁█ ✦▇  █▇▅█▃██▄███████▅██▅▂▄██▄▄▁ ▁▁✦█▂  
-▁██▅██████████▁▇█▆▇██████████████████████████▇██████▅
